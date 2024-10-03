@@ -1,1 +1,1 @@
-<h1> HTML FORM </h1>
+<h1 align="center"> HTML FORM </h1>
